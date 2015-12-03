@@ -1,0 +1,6 @@
+c:\users\gergő\documents\visual studio 2015\Projects\Maya\Maya\bin\Debug\Maya.exe.config
+c:\users\gergő\documents\visual studio 2015\Projects\Maya\Maya\bin\Debug\Maya.exe
+c:\users\gergő\documents\visual studio 2015\Projects\Maya\Maya\bin\Debug\Maya.pdb
+c:\users\gergő\documents\visual studio 2015\Projects\Maya\Maya\obj\Debug\Maya.csprojResolveAssemblyReference.cache
+c:\users\gergő\documents\visual studio 2015\Projects\Maya\Maya\obj\Debug\Maya.exe
+c:\users\gergő\documents\visual studio 2015\Projects\Maya\Maya\obj\Debug\Maya.pdb
